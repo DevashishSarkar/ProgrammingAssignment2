@@ -31,7 +31,7 @@ inverse <- NULL
 ## Write a short comment describing this function
 
 ##cacheSolve first determines whether the inverse has been already calculated
-##If yes, then it gets the mean from the cache, and does not carry on with the
+##If yes, then it gets the value from the cache, and does not carry on with the
 ##computation
 ##If no, then it calculates the inverse of the matrix and stores the value in
 ##the cache using setInverse
